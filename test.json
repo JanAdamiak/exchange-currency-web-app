@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "query": {
+        "from": "GBP",
+        "to": "JPY",
+        "amount": 25
+    },
+    "info": {
+        "timestamp": 1519328414,
+        "rate": 148.972231
+    }
+}
